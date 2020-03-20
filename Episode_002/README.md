@@ -1,5 +1,4 @@
 # Episode 002
-# Episode 002
 
 ## Intro and Overview
 1. Welcome to the Stream
